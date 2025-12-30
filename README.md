@@ -71,10 +71,10 @@ Or open the notebook in Google Colab and run step by step.
 
 
 Proof of Work
-- Notebook:[Click here to view the Project Notebook]
-- 
-  [To Open in Colab!]
-  https://colab.research.google.com/drive/1Uf6Qlqzs5ucsrPcbC7xldyvCpJRw--Eo?usp=sharing
+- Notebook: [Click here to view the Project Notebook]
+[To Open in Colab!] https://colab.research.google.com/drive/1Uf6Qlqzs5ucsrPcbC7xldyvCpJRw--Eo?usp=sharing
+
+- Blog: https://medium.com/@srikab2007/fine-tuning-bert-for-sentiment-analysis-8e8863837aa8
 - Demo: Example prediction:  
   - Input: “The movie was absolutely fantastic!”  
   - Output: Positive
